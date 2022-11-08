@@ -1,0 +1,19 @@
+{
+  "name": "first-project-nextJS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Srbentu/next_first.git",
+  "author": "Breno Marcomini <brenomarcomini@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.0.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  }
+}
